@@ -37,11 +37,11 @@ body{
     width: 1000px;
 }
 
-a{color: #b8860b; text-decoration:none;}
-a.current{color: #52739e;}
-a.current:hover{color: #e82945;}
-a:hover{color: #b2132e;}
-a:active{color: #e82945;}
+a{color: #7A003C; text-decoration:none;}
+a.current{color: #7A003C;}
+a.current:hover{color: #7A003C;}
+a:hover{color: #7A003C;}
+a:active{color: #7A003C;}
 h1{clear:center; color: #813c54; margin:2.5em 0em 2em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h2,h3,h4{clear:left; color: #990035; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h1{font-size:2.2em;}
@@ -83,9 +83,9 @@ th,td{
 .bottom-right {font-size:1.2em; color: #fafafa; line-height: 1.0em; width: auto; height: 120px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
-.title1{color: #005958; text-shadow: 1px 1px 3px black;}
-.title2{color: #12009b; text-shadow: 1px 1px 3px black;}
-.year{color: #ab00a5; font-size:0.67em; font-weight: lighter;}
+.title1{color: #7A003C; text-shadow: 1px 1px 3px white;}
+.title2{color: #7A003C; text-shadow: 1px 1px 3px white;}
+.year{color: black; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width: 940px;}
